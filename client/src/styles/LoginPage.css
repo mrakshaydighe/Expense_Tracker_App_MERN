@@ -1,0 +1,75 @@
+.login-page {
+    height: 100vh !important;
+    width: 100vw !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.login-form {
+    background-color: #b6e1e1;
+    padding: 30px;
+    max-width: 400px;
+    width: 100%;
+}
+
+.login-form h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 30px 0;
+    color: #000000;
+    font-size: 2rem;
+}
+
+.login-form .ant-form-item-label label {
+    color: #141300 !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.login-form button {
+    background-color: #000000;
+    color: white;
+    outline: none;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.login-form button:hover {
+    background-color: #c1f5f5;
+    border-color: #00060b;
+    cursor: pointer;
+}
+
+.login-form a {
+    color: #344265 !important;
+}
+
+.login-form a:hover {
+    color: black !important;
+}
+
+.Ak1 {
+    color: #730000 !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 3.3rem;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+.Ak2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #9f0202 !important;
+}
